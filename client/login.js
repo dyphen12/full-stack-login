@@ -29,6 +29,8 @@ function login() {
 
       } else {
         document.getElementById("demo").innerHTML = 'Succesfully Logged in'
+        /* Here you can continue the implementation */
+        /* Maybe you can try redirecting to your main app */
       }
 
       }
